@@ -1,0 +1,5 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C5EOMPVGE0M3SF4INUQ0").setAdvancedMatchingAvailableProperties({"email":false,"phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C5EOMPVGE0M3SF4INUQ0").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C5EOMPVGE0M3SF4INUQ0").setPixelInfo({status: 0, name: "Toyota Service Pixel", advertiserID: "7015858074674036738", setupMode: 2, partner: "", is_onsite: false, enableAutoAM: false });
+window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("toyota.com.sa");
+window[window["TiktokAnalyticsObject"]].setPCMConfig && window[window["TiktokAnalyticsObject"]].setPCMConfig([]);
